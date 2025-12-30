@@ -1,5 +1,4 @@
-# Unity 2D Survival RPG (Intern Project)
-# 7-Days-of-Cultivation
+# Unity 2D Survival RPG: 7-Days-of-Cultivation
 A survival game with weekly cycles, simple leveling to defeat ambushing monsters.
 
 ## Overview
